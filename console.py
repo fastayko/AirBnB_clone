@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """
 The console v: 0.0.1
 Contains the entry point of the command interpreter
